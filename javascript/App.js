@@ -78,6 +78,11 @@ console.log(existe)
 frutas.splice(2,1, 'Manga')
 console.log(frutas)
 
+let frutas_1 = ['Laranja','Melancia','Morango','Uva','Caju'];
+let texto = frutas_1.join(',');
+
+console.log(texto)
+
 
 
 
